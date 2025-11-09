@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="722" height="506.515" viewBox="0 0 722 506.515">
+  <defs>
+    <filter id="Rectangle_1023" x="0" y="0" width="722" height="506.515" filterUnits="userSpaceOnUse">
+      <feOffset dy="28" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="31" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_34_1" data-name="Component 34 – 1" transform="translate(93 65)">
+    <g transform="matrix(1, 0, 0, 1, -93, -65)" filter="url(#Rectangle_1023)">
+      <rect id="Rectangle_1023-2" data-name="Rectangle 1023" width="536" height="320.515" rx="10" transform="translate(93 65)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
